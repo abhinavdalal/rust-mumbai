@@ -34,6 +34,8 @@ Embedded
 Low-level:
   - TODO: add mouse driver? written in rust
 
+FIXME: Add more domains like high performance compute; tui; games; orm; image manupalation etc.
+
 ## Installation
 use [rustup](https://www.rust-lang.org/tools/install) instructions to install rust if you want to run above examples
 
@@ -41,6 +43,8 @@ use [rustup](https://www.rust-lang.org/tools/install) instructions to install ru
 Amazing resources to continue forward:
  - https://doc.rust-lang.org/book/
  - https://github.com/rust-lang/rustlings
+ - https://github.com/rust-lang-nursery/rust-cookbook
+ - https://google.github.io/comprehensive-rust/
  - https://github.com/mre/idiomatic-rust
  - https://blessed.rs/crates
 
