@@ -21,8 +21,8 @@ Frontend
   - TODO: Click Counter in Tauri
 
 Backend
-  - Rekognition API
-  - OpenAI API wrapper
+  - [Rekognition API](samples/rekognition-api/src/main.rs)
+  - [OpenAI API wrapper](samples/open-ai-assistant/src/main.rs)
   - TODO: [Chat Server](https://github.com/Totodore/socketioxide/blob/main/examples/axum-echo/axum_echo.rs)
 
 CLI
