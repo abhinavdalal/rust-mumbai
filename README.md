@@ -14,11 +14,7 @@
  - don't have anyone to ask if i get stuck up
  - the rust ecosystem and community is not mature yet
 
-
-my objective here is to create very simple ~100 line rust code that does something meaningful for each domain/genre that has a potential to inspire someone from that domain/genre to take an interest in rust
-
-## Installation
-use [rustup](https://www.rust-lang.org/tools/install) instructions to install rust
+my objective here is to create very simple ~100 line rust code that does something meaningful for each domain/genre. It has a potential to inspire someone from that domain/genre to take an interest in rust within 30 min.
 
 ## Examples
 Frontend
@@ -27,6 +23,7 @@ Frontend
 Backend
   - Rekognition API
   - OpenAI API wrapper
+  - TODO: [Chat Server](https://github.com/Totodore/socketioxide/blob/main/examples/axum-echo/axum_echo.rs)
 
 CLI
   - TODO: [add CLI example](https://github.com/clap-rs/clap/blob/0134f45ff0e2e2be8c451565e4fbf5d3cb7b7cfd/examples/git-derive.md)
@@ -37,6 +34,9 @@ Embedded
 Low-level:
   - TODO: add mouse driver? written in rust
 
+## Installation
+use [rustup](https://www.rust-lang.org/tools/install) instructions to install rust if you want to run above examples
+
 ## Next Steps
 Amazing resources to continue forward:
  - https://doc.rust-lang.org/book/
@@ -46,5 +46,5 @@ Amazing resources to continue forward:
 
 ## Finally:
  - everyone needs help; please dont hesitate to ask for help!
- - please do help someone who is interested if you can!
-https://youtu.be/1-q_8TKNG9w?si=L1KQxnAVvbfchFy_
+ - if you can; then please do help someone who is interested!
+ - https://youtu.be/1-q_8TKNG9w?si=L1KQxnAVvbfchFy_
