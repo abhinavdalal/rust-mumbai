@@ -7,7 +7,6 @@ use openai_api_rs::v1::{
     thread::CreateThreadRequest,
 };
 
-// static OPENAI_API_KEY: &str = "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";
 // static OPENAI_API_BASE: &str = "https://api.openai.com/v1";
 
 fn main() {
