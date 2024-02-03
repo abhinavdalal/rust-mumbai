@@ -16,7 +16,7 @@
 
 my objective here is to create very simple ~100 line rust code that does something meaningful for each domain/genre. It has a potential to inspire someone from that domain/genre to take an interest in rust within 30 min.
 
-## Examples
+## samples
 Frontend
   - TODO: Click Counter in Tauri
 
